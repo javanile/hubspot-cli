@@ -1,0 +1,23 @@
+{
+  "name": "hubspot-cli",
+  "version": "0.0.1",
+  "description": "Control HubSpot from CLI",
+  "main": "hubspot.js",
+  "dependencies": {
+    "hubspot": "^2.3.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javanile/hubspot-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javanile/hubspot-cli/issues"
+  },
+  "homepage": "https://github.com/javanile/hubspot-cli#readme"
+}

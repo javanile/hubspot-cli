@@ -23,3 +23,5 @@ Homestead.json
 .phpunit.result.cache
 
 .hubspot-cli.json
+.hubspot.json
+
